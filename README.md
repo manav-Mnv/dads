@@ -90,16 +90,6 @@ If equal:
   → All settled
 ```
 
----
-
-## Hosting (so Dad can use it on his phone)
-
-The easiest free option:
-
-1. Go to https://netlify.com
-2. Drag and drop the `sona-app` folder onto the Netlify dashboard
-3. You'll get a URL like `https://sona-gold.netlify.app`
-4. Open that URL on any phone — done
 
 ---
 
