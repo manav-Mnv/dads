@@ -1,5 +1,0 @@
-{
-  "installCommand": "echo 'Skipping dependencies installation'",
-  "buildCommand": "npm run build",
-  "outputDirectory": "."
-}
